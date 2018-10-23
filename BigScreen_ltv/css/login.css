@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box
+}
+
+.clear::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+html {
+    font-size: 100px;
+    height: 100%;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1440px) {
+    html {
+        width: 100%;
+        font-size: 90px;
+    }
+    .u_head h4 {
+        color: rgba(255, 255, 255, 0.4);
+        padding-left: 0.12rem;
+        font-weight: normal;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .u_head h4 p {
+        font-size: 0.12rem;
+        padding-left: 0.12rem;
+    }
+}
+
+.bg {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background: url(../img/bg2.png) no-repeat;
+    background-size: 100%;
+}
+
+.header {
+    width: 100%;
+    height: .84rem;
+    background: rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mg_logo {
+    width: 1.8rem;
+    height: 0.54rem;
+    background: url(../img/logo.png) no-repeat center center;
+    -webkit-background-size: contain;
+    background-size: contain;
+    margin-left: 0.15rem;
+    margin-right: 1.54rem;
+}
+
+.h_time {
+    text-align: center;
+    color: #cdd5dc;
+    display: flex;
+    height: 0.55rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.h_time span {
+    display: inline-block;
+    height: 0.55rem;
+    width: 0.35rem;
+    background-color: rgba(42, 45, 46, 0.8);
+    font-size: 0.34rem;
+    line-height: 0.55rem;
+    border-radius: 0.04rem;
+    margin: 0 0.01rem;
+}
+
+.h_time em {
+    display: inline-block;
+    width: 0.18rem;
+    font-size: 0.34rem;
+    line-height: 0.55rem;
+    height: 0.55rem;
+    font-style: normal;
+}
+
+.h_show {
+    background: url(../img/bigData.png) no-repeat center center;
+    width: 3.34rem;
+    height: 0.35rem;
+    margin-right: 0.15rem;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.bottom_img {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2.58rem;
+}
+
+.bottom_img img {
+    width: 100%;
+}
+
+
+/* 登录框 */
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    height: 4.88rem;
+    width: 3.25rem;
+}
+
+.box>div:nth-child(1) {
+    width: 100%;
+}
+
+.box>div:nth-child(1) img {
+    width: 100%;
+}
+
+.box>div:nth-child(2) {
+    width: 100%;
+    height: 3.55rem;
+    border: 1px solid #fff;
+    border-top: 3px solid #f06000;
+    font-size: 16px;
+    color: #fff;
+    padding: 30px;
+}
+
+.log_top {
+    position: relative;
+    width: 100%;
+    height: .35rem;
+    margin-bottom: .05rem;
+}
+
+.log_top span:first-child {
+    font-size: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.log_top span:last-child {
+    font-size: 14px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.log_input input {
+    width: 100%;
+    height: .4rem;
+    background: rgba(0, 0, 0, 0);
+    color: #fff;
+    border: 1px solid #fff;
+    margin-top: .25rem;
+    padding-left: .4rem;
+}
+
+#error {
+    height: .25rem;
+    line-height: .25rem;
+    color: red;
+    text-align: center;
+    font-size: 12px;
+    position: relative;
+    top: 10px;
+}
+
+.log_input>input {
+    background: #f06000;
+    border: 0;
+    text-align: center;
+    padding-left: 0;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.log_input>div {
+    position: relative;
+    margin-top: 10px;
+}
+
+.log_input i {
+    position: absolute;
+    font-size: 20px;
+    top: .325rem;
+    left: .1rem;
+}
+
+.log_bottom {
+    text-align: center;
+    font-size: 12px;
+    margin-top: .5rem;
+}

@@ -1,0 +1,19 @@
+1.地区开机用户数
+	http://172.19.112.11:8080/StarV3Plus/realtime/getCountByArea.do
+2.直播频道排行
+		http://172.19.112.11:8080/StarV3Plus/realtime/getChannelTop.do
+3.在线用户数
+	http://172.19.112.11:8080/StarV3Plus/realtime/getCountByType.do
+4.频道昨日收视对比
+	http://172.19.112.11:8080/StarV3Plus/live/getIndex.do?areaCode=10001&groupFlag=false&groupCode=gx001&channelCodes=17%2C42%2C30%2C28&dateRange=2018-01-02%3A2018-01-02&timeRange=00%3A00%3A00-23%3A59%3A59&dateInterval=f04&indexName=RTG&operatorsCodes=dx&currentPage=1	
+	参数：
+		areaCode:10001
+		groupFlag:false
+		groupCode:gx001
+		channelCodes:17,42,30,28
+		dateRange:2018-01-02:2018-01-02
+		timeRange:00:00:00-23:59:59
+		dateInterval:f04
+		indexName:RTG
+		operatorsCodes:dx
+		currentPage:1

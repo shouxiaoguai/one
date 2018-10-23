@@ -1,0 +1,983 @@
+{
+  "subtext" : "2018-01-02至2018-01-02",
+  "success" : true,
+  "totalPage" : 1,
+  "text" : "收视率",
+  "axis" : "time",
+  "currentPage" : 1,
+  "contentList" : [
+    {
+    "valueList" : [
+      {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000338",
+      "viewtime" : 2040204,
+      "time" : "00:00:00-01:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000194",
+      "viewtime" : 1168114,
+      "time" : "01:00:00-02:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000115",
+      "viewtime" : 695189,
+      "time" : "02:00:00-03:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000076",
+      "viewtime" : 457589,
+      "time" : "03:00:00-04:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00006",
+      "viewtime" : 364617,
+      "time" : "04:00:00-05:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000049",
+      "viewtime" : 298304,
+      "time" : "05:00:00-06:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00007",
+      "viewtime" : 423339,
+      "time" : "06:00:00-07:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000087",
+      "viewtime" : 525286,
+      "time" : "07:00:00-08:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000236",
+      "viewtime" : 1424985,
+      "time" : "08:00:00-09:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000455",
+      "viewtime" : 2741969,
+      "time" : "09:00:00-10:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000729",
+      "viewtime" : 4398964,
+      "time" : "10:00:00-11:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001018",
+      "viewtime" : 6140361,
+      "time" : "11:00:00-12:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001024",
+      "viewtime" : 6172859,
+      "time" : "12:00:00-13:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001418",
+      "viewtime" : 8552382,
+      "time" : "13:00:00-14:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001491",
+      "viewtime" : 8988993,
+      "time" : "14:00:00-15:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001695",
+      "viewtime" : 10220191,
+      "time" : "15:00:00-16:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001918",
+      "viewtime" : 11566461,
+      "time" : "16:00:00-17:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001926",
+      "viewtime" : 11615297,
+      "time" : "17:00:00-18:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001575",
+      "viewtime" : 9496342,
+      "time" : "18:00:00-19:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001449",
+      "viewtime" : 8738149,
+      "time" : "19:00:00-20:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00364",
+      "viewtime" : 21953655,
+      "time" : "20:00:00-21:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004469",
+      "viewtime" : 26949781,
+      "time" : "21:00:00-22:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.003814",
+      "viewtime" : 23000563,
+      "time" : "22:00:00-23:00:00",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3599,
+      "allviewtime" : 0,
+      "RTG" : "0.002813",
+      "viewtime" : 16961920,
+      "time" : "23:00:00-23:59:59",
+      "content" : "28",
+      "contentName" : "湖南卫视"
+    } ],
+    "content" : "湖南卫视"
+  }, {
+    "valueList" : [ {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000278",
+      "viewtime" : 1676286,
+      "time" : "00:00:00-01:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000123",
+      "viewtime" : 740091,
+      "time" : "01:00:00-02:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000073",
+      "viewtime" : 440412,
+      "time" : "02:00:00-03:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000038",
+      "viewtime" : 226414,
+      "time" : "03:00:00-04:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000024",
+      "viewtime" : 141903,
+      "time" : "04:00:00-05:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000024",
+      "viewtime" : 144408,
+      "time" : "05:00:00-06:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000034",
+      "viewtime" : 203870,
+      "time" : "06:00:00-07:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000069",
+      "viewtime" : 418249,
+      "time" : "07:00:00-08:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000165",
+      "viewtime" : 992981,
+      "time" : "08:00:00-09:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000431",
+      "viewtime" : 2601961,
+      "time" : "09:00:00-10:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000626",
+      "viewtime" : 3774514,
+      "time" : "10:00:00-11:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000848",
+      "viewtime" : 5115528,
+      "time" : "11:00:00-12:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001886",
+      "viewtime" : 11371645,
+      "time" : "12:00:00-13:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002086",
+      "viewtime" : 12581164,
+      "time" : "13:00:00-14:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00229",
+      "viewtime" : 13811929,
+      "time" : "14:00:00-15:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002215",
+      "viewtime" : 13356275,
+      "time" : "15:00:00-16:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001989",
+      "viewtime" : 11993186,
+      "time" : "16:00:00-17:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001714",
+      "viewtime" : 10334267,
+      "time" : "17:00:00-18:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000897",
+      "viewtime" : 5408924,
+      "time" : "18:00:00-19:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001295",
+      "viewtime" : 7810138,
+      "time" : "19:00:00-20:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002524",
+      "viewtime" : 15220431,
+      "time" : "20:00:00-21:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002117",
+      "viewtime" : 12768293,
+      "time" : "21:00:00-22:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001641",
+      "viewtime" : 9893474,
+      "time" : "22:00:00-23:00:00",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3599,
+      "allviewtime" : 0,
+      "RTG" : "0.001419",
+      "viewtime" : 8553749,
+      "time" : "23:00:00-23:59:59",
+      "content" : "30",
+      "contentName" : "浙江卫视"
+    } ],
+    "content" : "浙江卫视"
+  }, {
+    "valueList" : [ {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000652",
+      "viewtime" : 3933995,
+      "time" : "00:00:00-01:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000422",
+      "viewtime" : 2544588,
+      "time" : "01:00:00-02:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00036",
+      "viewtime" : 2173256,
+      "time" : "02:00:00-03:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000261",
+      "viewtime" : 1575173,
+      "time" : "03:00:00-04:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000173",
+      "viewtime" : 1043420,
+      "time" : "04:00:00-05:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000152",
+      "viewtime" : 915449,
+      "time" : "05:00:00-06:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000241",
+      "viewtime" : 1452234,
+      "time" : "06:00:00-07:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000651",
+      "viewtime" : 3924579,
+      "time" : "07:00:00-08:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000972",
+      "viewtime" : 5862711,
+      "time" : "08:00:00-09:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001192",
+      "viewtime" : 7188747,
+      "time" : "09:00:00-10:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001681",
+      "viewtime" : 10135807,
+      "time" : "10:00:00-11:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002649",
+      "viewtime" : 15977857,
+      "time" : "11:00:00-12:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002967",
+      "viewtime" : 17893092,
+      "time" : "12:00:00-13:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.003488",
+      "viewtime" : 21033390,
+      "time" : "13:00:00-14:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.003782",
+      "viewtime" : 22809948,
+      "time" : "14:00:00-15:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004005",
+      "viewtime" : 24154505,
+      "time" : "15:00:00-16:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004275",
+      "viewtime" : 25782849,
+      "time" : "16:00:00-17:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004581",
+      "viewtime" : 27627097,
+      "time" : "17:00:00-18:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.016303",
+      "viewtime" : 98319225,
+      "time" : "18:00:00-19:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.014377",
+      "viewtime" : 86704230,
+      "time" : "19:00:00-20:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.012889",
+      "viewtime" : 77728638,
+      "time" : "20:00:00-21:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.006884",
+      "viewtime" : 41512121,
+      "time" : "21:00:00-22:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.003866",
+      "viewtime" : 23313227,
+      "time" : "22:00:00-23:00:00",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3599,
+      "allviewtime" : 0,
+      "RTG" : "0.002844",
+      "viewtime" : 17148262,
+      "time" : "23:00:00-23:59:59",
+      "content" : "42",
+      "contentName" : "广西卫视"
+    } ],
+    "content" : "广西卫视"
+  }, {
+    "valueList" : [ {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000296",
+      "viewtime" : 1784374,
+      "time" : "00:00:00-01:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000163",
+      "viewtime" : 981317,
+      "time" : "01:00:00-02:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000097",
+      "viewtime" : 583853,
+      "time" : "02:00:00-03:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000107",
+      "viewtime" : 643795,
+      "time" : "03:00:00-04:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000091",
+      "viewtime" : 547707,
+      "time" : "04:00:00-05:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000141",
+      "viewtime" : 852128,
+      "time" : "05:00:00-06:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.000345",
+      "viewtime" : 2079142,
+      "time" : "06:00:00-07:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00092",
+      "viewtime" : 5549165,
+      "time" : "07:00:00-08:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.001753",
+      "viewtime" : 10569166,
+      "time" : "08:00:00-09:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002204",
+      "viewtime" : 13289972,
+      "time" : "09:00:00-10:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002262",
+      "viewtime" : 13638414,
+      "time" : "10:00:00-11:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.002665",
+      "viewtime" : 16069866,
+      "time" : "11:00:00-12:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004176",
+      "viewtime" : 25181542,
+      "time" : "12:00:00-13:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00445",
+      "viewtime" : 26833844,
+      "time" : "13:00:00-14:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00449",
+      "viewtime" : 27078829,
+      "time" : "14:00:00-15:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004308",
+      "viewtime" : 25981328,
+      "time" : "15:00:00-16:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004376",
+      "viewtime" : 26392606,
+      "time" : "16:00:00-17:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.00386",
+      "viewtime" : 23280206,
+      "time" : "17:00:00-18:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.003949",
+      "viewtime" : 23816113,
+      "time" : "18:00:00-19:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.010635",
+      "viewtime" : 64136359,
+      "time" : "19:00:00-20:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.005901",
+      "viewtime" : 35584877,
+      "time" : "20:00:00-21:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.006242",
+      "viewtime" : 37641386,
+      "time" : "21:00:00-22:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3600,
+      "allviewtime" : 0,
+      "RTG" : "0.004356",
+      "viewtime" : 26270428,
+      "time" : "22:00:00-23:00:00",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    }, {
+      "date" : "2018-01-02:2018-01-02",
+      "dayLength" : 1,
+      "timeLong" : 3599,
+      "allviewtime" : 0,
+      "RTG" : "0.004134",
+      "viewtime" : 24925825,
+      "time" : "23:00:00-23:59:59",
+      "content" : "17",
+      "contentName" : "CCTV-1"
+    } ],
+    "content" : "CCTV-1"
+  } ]
+}

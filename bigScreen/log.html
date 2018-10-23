@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>log</title>
+    <script src="js/socket.min.js" type="text/javascript"></script>
+    <script src="js/stomp.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var socket = new SockJS('/hunan/endpoint');
+        var stompClient = Stomp.over(socket);
+        stompClient.connect({}, function (frame) {
+            stompClient.subscribe('/topic/getTailLog', function (response) {
+                console.log(document.write(response.body+"</br>"));
+                window.scrollTo(0, document.body.scrollHeight);
+            })
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>
